@@ -1,6 +1,6 @@
 
 
-- 🔭 Trabalho atualmente com front-end e mobile
-- 🌱Me aprimorando no desevolvimento mobile com React Native e aprendendo melhor React web
+- 🔭 I currently work with Mobile and Front End Development
+- 🌱 Strong experience in React-Native(Android-IOS). Studying ReactJs.
 
               
