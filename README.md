@@ -35,5 +35,5 @@ But, I also used it in projects:
 
 **Follow me on my social media:**
               
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https:/www.instagram.com/lllusca1/)](https:/www.instagram.com/lllusca1/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https:/www.linkedin.com/in/lucasalmeidasousa/)](https:/www.https://www.linkedin.com/in/lucasalmeidasousa/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigo.goncalves.s/)](https://www.instagram.com/rodrigo.goncalves.s/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalmeidasousa/)](https://www.linkedin.com/in/lucasalmeidasousa/) 
