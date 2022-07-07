@@ -1,7 +1,7 @@
 
 
 
-**I'm Lucas Almeida Sousa 👨‍🚀**. Currently I'm a mobile developer at TGID.
+**I'm Lucas Almeida Sousa 👨‍🚀**. Currently I'm a mobile developer at MBLABS.
 I also have experience with web and desktop development.
 
 Currently my stack is: 
