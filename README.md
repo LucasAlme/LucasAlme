@@ -1,7 +1,7 @@
 
 
 
-**I'm Lucas Almeida Sousa 👨‍🚀**. Currently I'm a mobile developer at MBLABS.
+**I'm Lucas Almeida Sousa 👨‍🚀**. Currently I'm a mobile developer at Americanas S.A.
 I also have experience with web and desktop development.
 
 Currently my stack is: 
@@ -29,7 +29,7 @@ But, I also used it in projects:
 <img src="https://img1.gratispng.com/20180415/pjw/kisspng-adobe-xd-user-interface-design-computer-icons-adob-adobe-5ad2fa7cce9f02.2569342615237761248463.jpg" height="35px" />    
 </p>
 
-:mortar_board: I am graduating in Sytems Analisys.
+:mortar_board: Majored in Sytems Analisys.
 
 :memo: I have certifications: Rocketseat and Udemy.
 
