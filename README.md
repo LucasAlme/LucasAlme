@@ -1,8 +1,7 @@
 
 
+***Updated Github Profile https://github.com/LucasAlSousaBanqi***
 
-**I'm Lucas Almeida Sousa 👨‍🚀**. Currently I'm a mobile developer at Americanas S.A.
-I also have experience with web and desktop development.
 
 Currently my stack is: 
 
