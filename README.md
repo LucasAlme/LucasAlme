@@ -1,6 +1,6 @@
 
 
-***Updated Github Profile https://github.com/LucasAlSousaBanqi***
+
 
 
 Currently my stack is: 
